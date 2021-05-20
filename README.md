@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm just a random Python dev
+
+- 🔭 I’m currently working on multiple Discord bots and some websites
 
 <!--
 **7h3Py7h0n/7h3Py7h0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
