@@ -1,4 +1,4 @@
-### Hi there! I'm just a random Python dev
+### Hi there! I'm just a random Python dev.
 
 - I’m currently working on multiple Discord bots and some websites
 
