@@ -1,4 +1,4 @@
-# Hi there! I'm just a random dev.
+# Hi there! I'm just some random dev.
 
 - I’m currently working on some websites, but not my personal one, that one will probably be a placeholder for a long time
 
