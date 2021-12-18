@@ -1,11 +1,12 @@
 ### Hi there! I'm just a random dev.
 
+- I’m currently working on some websites, but not my personal one, that one will probably be a placeholder for a long time
+
 ### My stats (pretty empty, i know)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3Py7h0n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![7h3Py7h0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=7h3Py7h0n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- I’m currently working on multiple Discord bots and some websites
 
 <!--
 **7h3Py7h0n/7h3Py7h0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
